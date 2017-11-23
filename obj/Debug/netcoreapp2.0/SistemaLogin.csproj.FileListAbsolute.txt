@@ -1,0 +1,10 @@
+C:\Users\01317235614\backend\SistemaLogin\bin\Debug\netcoreapp2.0\SistemaLogin.deps.json
+C:\Users\01317235614\backend\SistemaLogin\bin\Debug\netcoreapp2.0\SistemaLogin.runtimeconfig.json
+C:\Users\01317235614\backend\SistemaLogin\bin\Debug\netcoreapp2.0\SistemaLogin.runtimeconfig.dev.json
+C:\Users\01317235614\backend\SistemaLogin\bin\Debug\netcoreapp2.0\SistemaLogin.dll
+C:\Users\01317235614\backend\SistemaLogin\bin\Debug\netcoreapp2.0\SistemaLogin.pdb
+C:\Users\01317235614\backend\SistemaLogin\obj\Debug\netcoreapp2.0\SistemaLogin.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\backend\SistemaLogin\obj\Debug\netcoreapp2.0\SistemaLogin.AssemblyInfoInputs.cache
+C:\Users\01317235614\backend\SistemaLogin\obj\Debug\netcoreapp2.0\SistemaLogin.AssemblyInfo.cs
+C:\Users\01317235614\backend\SistemaLogin\obj\Debug\netcoreapp2.0\SistemaLogin.dll
+C:\Users\01317235614\backend\SistemaLogin\obj\Debug\netcoreapp2.0\SistemaLogin.pdb
